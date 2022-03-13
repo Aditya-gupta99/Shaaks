@@ -1,0 +1,318 @@
+<resources>
+    <string name="app_name">shaaks</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="login1">login</string>
+    <string name="default_web_client_id" />
+    <string name="guardian">Guardian</string>
+    <string name="student">Student</string>
+
+
+    <string name="iti"><b>ITI(Industrial Training Institute)</b>\n
+
+ITI courses are the best way to learn any vocational skills. It is not necessary that everyone has to be a doctor or an IIT engineer. You can also be a technician or a mechanic. If you dont have to pursue higher education then you go for a diploma in various ITI courses. Students may pursue ITI programs after completing 12th also. Duration of ITI programs could be 1-2 years.\n\n<b>ELIGIBILITY :</b>
+\n\nAnyone who has completed from 8th to 10+2 is eligible for courses under ITI.\n\n<b>AGE LIMIT :</b>\n\nCandidate should be between 14 to 40 years old.\n\n<b>Procedure to Join :</b>\n\nChoose any ITI from your area.
+
+Just go to that ITI, buy a form for about Rs. 50-100, then fill and submit it.
+
+Your admission depends on the marks you got in 10th class i.e., based on merit.
+
+You can also download form from online for admission and submit it with a demand draft.\n\n<b>Choose Your Best ITI Course from the below List</b>\n\n<b>Electrician :</b>
+There is nothing to explain when you say the word electrician. If you are low skilled and just have completed your matriculation then Electrician is really good ITI course for you.\n
+<b>Fitter :</b>
+Fitting courses are also available and it is also for low skilled candidates. Fitter’s course for ITI takes at least 2 years and you can start right after your 10th.\n
+<b>Carpenter :</b>
+Carpenter course is also for low skilled candidates and it can be taken up right after matriculation. The ITI course is minimum 2 years long and they teach you how to be a good carpenter.\n
+<b>Foundry Man :</b>
+Foundry Man is a course for just 1 year. And the minimum qualification that you need to have is just 8th. Yes not even matriculation. So you can imagine it is for less educated candidates.\n
+<b>Book Binder :</b>
+ITI courses for Book Binder are available in states like Maharashtra and Kerala. The minimum duration of the course could be just 1 year.\n
+<b>Plumber :</b>
+Plumbing jobs are very high on demand. You can easily get a diploma being a certified plumber. Courses are for 2 years as well as 3 years. You need to decide which one you are going to pick.\n
+<b>Pattern Maker :</b>
+Pattern Maker is also an Industrial foundry course. You just have to pass 8th standard and the duration of the course is 2 years. The courses are given in 5 states of India.\n
+<b>Mason Building Constructor :</b>
+Mason Building Constructor is just 1 year long course and you have to be 8th passed. Here you have to do building related work like renovation, mason work etc. Prospects are really great.\n
+<b>Advanced Welding :</b>
+Welding courses for ITI in India is for 1 year and 2 years. If you have completed your 8th then it is enough take up this ITI course and get a diploma.\n
+<b>Wireman :</b>
+Wireman jobs are readily available and the course is only for 1 year. You can take up the course right after 8th class.\n
+<b>Sheet Metal Worker :</b>
+Sheet metal worker job is all about repairing metal products. You just have to 8th passed and more than 15 states in India offer ITI courses for Sheet Metal worker.\n
+<b>Tool and Die Maker :</b>
+Tool and Die makers is all about chemical engineering however here you just have to learn how to use them. You can get diploma if you complete 1 year course.\n
+<b>Moulder :</b>
+Moulder is a craftsman moulding vocational ITI courses. Here you have to pass at least matriculation or 10th. And the course is 2 years long given in more than 6 states in India.\n
+<b>Welder Gas and Electric :</b>
+Welder Gas and Electric is also a vocational training course that requires you to complete 8th standard. If you live in Maharashtra then there are many ITI colleges for this particular course.\n
+<b>Turner :</b>
+Turner’s could easily be employed at companies like SAIL, GAIL, Goa Shipyard etc. The duration of the course is 2 years and you have to pass 10th standard.\n
+<b>Advanced Tool and Die Making :</b>
+Diploma in Tool and Die making course could be 3 years long with minimum qualification of 10th. The fees could be up to Rs 20,000/- a year. But the prospects are great.\n
+<b>Painter General :</b>
+In this ITI course you learn about applying paint, finishing surfaces inside and outside, levelling materials etc. The course is 2 years long with 4 semester and you have to be 8th passed.\n
+<b>Machinist :</b>
+ITI in Machinist is a course for 2 years and you have to complete 10th or matriculation before you take up the course. The job prospect is really great if you get a diploma.\n
+<b>Draughtsman Mechanical :</b>
+The ITI course duration for Draughtsman Mechanical is 2 years and you have to pass 10th with science and math. Apprenticeship training could be 3 years long but will be fit for being employed.\n
+<b>Mechanic Machine Tools Maintenance :</b>
+Mechanic Machine tools Maintenance is bit technical, you have to be 10th pass with science and math. It is also a diploma course with 2 years’ time period and they teach about machinery and equipment.\n
+<b>Mechanic Computer Hardware :</b>
+Now following ITI courses are bit technical and you need to have certain educational background. The ITI course for Mechanic Computer Hardware could be 2 years or 3 years long. You have to be 10th pass and courses are available in more than 15 states.\n
+<b>Mechanic Refrigeration and Air Conditioner :</b>
+The diploma course for mechanic Refrigeration and Air Conditioner could be 1 year long. And you have to be 8th pass. You can easily find a job after completion of this ITI course.\n
+<b>Mechanic Watch and Clock :</b>
+It is also a yearlong course where you will be taught about repairing watch and clock. The ITI course is available in Kerala. You just have to be 8th pass.\n
+<b>Mechanic Motor Vehicle :</b>
+As you can see the above four ITI courses in the list and coming four are about Mechanic. The jobs are in high demand for motor mechanics. If you can complete a 2 years long course from any ITI then you can find a job easily.\n
+<b>Machine Tool Maintenance :</b>
+After 10th this 2 year long ITI course could be great. If you want a diploma in Machine tool maintenance then you have to be 10th pass with science and math.\n
+<b>Mechanic Radio and Television :</b>
+You must have completed 10th class and your age must be above 16 years. You get a diploma after completing this 2 years course.\n
+<b>Mechanic Diesel :</b>
+The ITI course for mechanic diesel is 1 year long and you just have to be 8th pass.\n
+<b>Instrument Mechanic :</b>
+Instrument Mechanic is also a great ITI course. You must get a diploma in this course. The course is 2 years long and you have to be 10th pass.\n
+<b>Instrument Mechanic Chemical Plant :</b>
+Here you have to deal with chemical plant. The course duration is 2 years and you have to be 10th pass.\n
+<b>Architectural Draughtsman ship :</b>
+It is better advised that you take up this course which is 3 years long and get a diploma. You have to be 10th pass for this course. The job prospects are really great.\n
+<b>Metrology and Engineering Inspection :</b>
+Following ITI courses are technical and it requires certain educational background. The diploma course could be 3 years long and you have to be 10th pass before you apply for this course.\n
+<b>Electrical Maintenance :</b>
+The course duration for electrical maintenance is just 2 years. There are various skills that you will acquire after completing the course. You can be self employed and employed by others also.\n
+<b>Electroplater :</b>
+Electroplater ITI course is 2 years long with four semesters and you have to be 10th pass. Here you are taught about coating gold, silver, nickel and other metals.\n
+<b>Computer Operator and Programming Assistant :</b>
+Surprisingly the ITI course duration for computer operator and programming assistant is just 1 year. Here you are introduced about hardware systems, setting control and codes etc. You have to be 10th pass.\n
+<b>Advanced Electronics :</b>
+Advanced electronics course could be 2 years to 3 years long and you must have completed 10th with science and math. Here you learn about basics of electronics.\n
+<b>Electronic Mechanic :</b>
+You must have passed matriculation and the ITI course is 2 years long with 4 semesters. You learn everything about electronic equipment.\n
+<b>Network Technician :</b>
+Network Technician course could be just 6 months long. You get a diploma for learning about networks. You must be 10th pass before applying for the course.\n
+<b>Pre Preparatory School Management Assistant :</b>
+The duration of Pre Preparatory school management assistant ITI course is just one year with 2 semesters. You must be 10th pass.\n\n<b>Now following courses are really great for women. The course is one year long and you learn about teaching.\n</b>
+<b>Secretarial Practice :</b>
+The diploma in Secretarial Practice is for 10+2 passed students or graduates. Here you learn typing, basic computer, receptionist’s chore etc.\n
+<b>Baker and Confectioner :</b>
+The ITI course for Baker and confectioner is just one year long and you have to be 10th pass. After learning this course you can start your own bakery.\n
+<b>Cutting and Sewing :</b>
+This is really great for women. You just have to be 8th pass and course duration is just 1 year. This ITI course is available in almost every state of the country.\n
+<b>Hair and Skin Care :</b>
+Women can join the ITI diploma course in Hair and Skin. It is just for 1 year and you have to be 10th pass for this course.\n
+<b>Stenography English :</b>
+This course is also 1 year long and you have to be 10th pass. They teach you shorthand correspondence, reports etc.\n
+<b>Interior Decoration and Designing </b>:
+The ITI course for Desktop publishing is one year long with 2 semesters. You have to be 10th pass and you learn everything about desktop publishing. Job prospects are really great.\n
+<b>Interior Decoration and Designing :</b>
+The course could be 1 year long and you have to be 10th passed. You must expect yourself to be self employed if you are taking up this course.\n
+<b>Heat Engine Automobile :</b>
+This is a lesser known ITI course but you can try if you have interest in automobile and their engine. The course is just 1 year long.\n
+<b>Driver Cum Mechanic Light Motor Vehicle :</b>
+There is also an ITI course for Driver cum mechanic lighter motor vehicle. The course is just 6 month long and you have to be 10th pass.\n        .
+    </string>
+
+
+    <string name="diploma">To join in diploma course after completing your 10th you need to appear for the diploma entrance exam (POLYCET) and you need to qualify in the entrance exam to get admission into the college.
+
+<b>List of some various diploma courses :</b>
+
+Architectural Assistantship
+
+Automobile Engineering
+
+Chemical Engineering
+
+Civil Engineering
+
+Computer Engineering
+
+Computer Science and Engineering
+
+Electrical Engineering
+
+Electronics and Communication Engineering
+
+Electronics and Communication Engineering - Industry Integrated
+
+Electrical and Electronics Engineering
+
+Electronics (Microprocessor)
+
+Electronics and Telecommunication Engineering
+
+Fashion Design
+
+Food Technology
+
+Garment Technology
+
+Information Technology
+
+Instrumentation Technology
+
+Interior Design and Decoration
+
+Leather Technology
+
+Leather Technology (Footwear)
+
+Library and Information Sciences
+
+Mechanical Engineering
+
+Mechanical Engineering (Refrigeration and Air Conditioning)
+
+Mechanical Engineering (Tool and Die)
+
+Marine Engineering
+
+Medical Laboratory Technology
+
+Plastic Technology
+
+Production and Industrial Engineering
+
+Textile Design
+
+Textile Processing
+
+Textile Technology (Spinning)
+
+Textile Technology (Weaving)
+
+Textile Technology (Knitting)
+
+Part time Diploma courses after 10th with working Experience:
+
+Civil Engineering (PTD)
+
+Electrical Engineering (PTD)
+
+Mechanical Engineering (PTD)\n\n<b>Lateral Entry for Diploma Holders to join in Engineering</b>\n\nIn the present scenario, merely a diploma course is not sufficient to have a flourishing career.So,aspiring students can opt for lateral entry for diploma holders.
+A student who has completed his/her 10+2 education with minimum 60% aggregate marks and is from the science and maths background can take up a diploma course in engineering and then can directly take admission to the B.Tech after diploma.
+Lateral entry scheme is intended to admit meritorious diploma holders to the second year of the B.Tech courses to acquire a degree in engineering. The top notch colleges of the country have the provision to Lateral entry for diploma. They have a fixed number of seats allotted for students. Students entering directly through lateral entry, complete their engineering in 3 years /6 semesters.
+
+
+    </string>
+    <string name="othercourse"><b>These are called the job oriented courses that are useful to get a job after short span of time.\n
+
+Course duration is: 6-12 months courses.\n
+
+Diploma in 2D and 3D Animation\n
+
+Diploma in Computer Applications\n
+
+Certificate Course in Graphic Designing\n
+
+Certificate Programme in MS-Office\n
+
+Certificate Course in Web Designing\n
+
+Certificate Course in Programming Language (JAVA, C++, PHP, SQL)\n
+
+Certification Course in SEO (Search Engine Optimization)\n
+    </b>
+    </string>
+    <string name="vocation"><b>These courses provide more practical skills technically.\n
+
+Banking and Financial Service Course - 2 Years\n
+
+DTP (Desktop Publishing) and Printing Technology - 1 Year\n
+
+Diploma in Insurance and Marketing - 1\n
+
+Year\n
+
+Tourism and Travel Techniques Course - 2 Years\n
+
+Pre-School Teacher Training - 2 Years\n
+
+Hotel Ope ons Course - 2 Years\n
+
+        Dental Technician Course - 2 Years\n</b></string>
+    <string name="computer"><b><b>Computer Engineer</b></b>\n
+
+<b>About Computer Engineer</b>\n
+
+Computer engineers develop and improve hardware and software programs. They may specialise in computer software or hardware. They make use of their extensive knowledge to make computer applications more effective and efficient. Computer engineers also work on the latest innovations, developing new computer software, hardware design, implement software applications and to improve the communication systems. It is one of the dynamic professional fields as if offers career both in software development and hardware engineering.
+
+Computer engineers work both with hardware and software as its their job ensuring that the two are seamlessly integrated and functioning properly. Just like there are countless apps, software programs and computers that are required for specific tasks, there are just as many career options for those who wish to enter the computer engineering profession. From robotics to wireless networks, and operating systems to aircraft design, there is a specialization available for everyone.
+
+Eligibility to become Computer Engineer\n
+
+To become a Computer Engineer, you will need to fulfil the following eligibility criteria:\n
+
+.
+
+Should have studied and passed PCM in Class 12 or equivalent examination from
+
+a recognised board with a minimum aggregate of 75%. However, the minimum aggregate rules vary from category to category.
+
+Appeared and passed any of the engineering entrance exams like JEE (Mains), JEE (Advanced), BITSAT, KCET, WBJEE etc. Should have studied B. Tech in a UGC approved college (with a pass percentage)
+
+An M. Tech degree will be advantageous
+
+Some colleges also follow age criteria*
+
+Types of Job Roles Computer Engineer
+
+After attaining a degree in computer engineering, there are a plethora of computer engineering job profiles in various sectors. Listed below are some of the popular. computer engineering job profiles:\n
+
+<b>Computer Engineers:</b>\n They work closely with network support staff to design network expansions and to take care of network bugs.\n <b>Computer Programmers:</b>\n The computer programmer make use of different computer languages to write software programs.\n<b>Computer System Analyst:</b> Computer System Analyst incorporates new technology into a computer system into an organisation after doing a cost system analysis. The computer system analyst can be broadly classified into three categories- System Designers, Software Quality Assurance, and Programmer Analysts.\n
+
+<b>Computer Support Specialists:</b>\n Computer support specialists/network specialists provide support to Information Technology employees within an organisation. They help IT staff analyze, troubleshoot and evaluate the computer network problems.\n <b>Software Application Developers:</b>\n They are the creative minds behind the computer apps/games as they design and develop different applications for computer and other electronic devices.\n <b>Web Developer:</b>\n They create a website and website design and looks after the technical
+
+aspects of it. Software Testers: Their job role is to test the codes and to take care of network bugs.\n
+
+<b>Employment Opportunities for Computer Engineers:</b>\n
+
+Computer engineers can find a variety of employment opportunities in different sectors. Check out the top sectors that hire computer engineers below:\n
+
+• Software Companies\n
+
+. Banks\n
+
+• Public Sectors\n
+
+. Colleges and Universities\n
+
+.Information Technology Companies and IT Firms Media and Entertainment Industry\n
+
+. Finance Companies\n
+
+. Research Labs\n
+
+. Digital Consulting Firms\n
+
+• Advertising and Mass Communication\n
+
+• Armed Forces Government Sector\n
+
+<b>Top Recruiting Companies for Computer Engineers</b>\n
+
+\nSome of the leading MNCs and companies that recruit computer engineers are as
+
+follows:\n
+
+. Amazon\n
+
+. Infosys\n
+
+• IBM\n
+
+• Cisco\n
+
+. HCL\n
+
+. Accenture\n
+
+• Microsoft\n
+
+• Dell\n
+
+• Wipro \n• SAP Labs\n</string>
+
+</resources>
