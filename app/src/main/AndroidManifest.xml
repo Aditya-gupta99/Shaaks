@@ -12,25 +12,50 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Shaaks">
         <activity
-            android:name=".Vocational"
+            android:name=".Agricultureengg"
             android:exported="false"
             android:screenOrientation="portrait"
             android:theme="@style/NoActionBarTheme"/>
+        <activity
+            android:name=".AutomobileEng"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"/>
+        <activity
+            android:name=".Civileng"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"/>
+        <activity
+            android:name=".Aeronautical"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"/>
+        <activity
+            android:name=".Engineering"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
+        <activity
+            android:name=".Vocational"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
         <activity
             android:name=".Shorttermcourse"
             android:exported="false"
             android:screenOrientation="portrait"
-            android:theme="@style/NoActionBarTheme"/>
+            android:theme="@style/NoActionBarTheme" />
         <activity
             android:name=".Iti"
             android:exported="false"
             android:screenOrientation="portrait"
-            android:theme="@style/NoActionBarTheme"/>
+            android:theme="@style/NoActionBarTheme" />
         <activity
             android:name=".Diploma"
             android:exported="false"
             android:screenOrientation="portrait"
-            android:theme="@style/NoActionBarTheme"/>
+            android:theme="@style/NoActionBarTheme" />
         <activity
             android:name=".Arts"
             android:exported="false"

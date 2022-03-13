@@ -20,9 +20,7 @@ class Eleven : AppCompatActivity(), View.OnClickListener {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_eleven)
 
-        val username =intent.getStringExtra(Constants.User_name)
 
-        tv_username2.text = "Hey $username \n\nSelect your boards"
 
         tv_option2_1.setOnClickListener(this)
         tv_option2_2.setOnClickListener(this)

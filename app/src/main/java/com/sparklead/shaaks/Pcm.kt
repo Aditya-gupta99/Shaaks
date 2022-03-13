@@ -1,5 +1,6 @@
 package com.sparklead.shaaks
 
+import android.content.Intent
 import android.graphics.Color
 import android.graphics.Typeface
 import androidx.appcompat.app.AppCompatActivity
@@ -63,6 +64,9 @@ class Pcm : AppCompatActivity(),View.OnClickListener{
         btn_next3_1.setOnClickListener{
             when (selectedoptionnum) {
                 1 -> {
+                    val intent = Intent(this, Engineering::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
 
                 }
                 2 -> {
@@ -74,16 +78,6 @@ class Pcm : AppCompatActivity(),View.OnClickListener{
                 4 -> {
 
                 }
-                5 -> {
-
-                }
-                6 -> {
-
-                }
-                7 -> {
-
-                }
-
             }
 
         }

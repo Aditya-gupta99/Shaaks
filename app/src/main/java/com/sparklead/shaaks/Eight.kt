@@ -19,9 +19,8 @@ class Eight : AppCompatActivity(), View.OnClickListener {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_eight)
 
-        val username =intent.getStringExtra(Constants.User_name)
 
-        tv_username.text = "Hey $username \n\nCourses After 10th Class"
+        tv_username.text = "Courses After 10th Class"
 
         tv_option1_1.setOnClickListener(this)
         tv_option1_2.setOnClickListener(this)
