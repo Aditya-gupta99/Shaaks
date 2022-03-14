@@ -4,11 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:gravity="center"
     android:background="@drawable/gradient_1"
-    tools:context=".Commerce">
-
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".CommerceWithoutMaths">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -28,7 +27,7 @@
                 android:id="@+id/tv_username"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Choose the subjects you want to pursue "
+                android:text="Choose the course you want to pursue "
                 android:textColor="#363A43"
                 android:layout_margin="10sp"
                 android:padding="10sp"
@@ -36,27 +35,10 @@
                 android:layout_marginTop="10sp"
                 android:layout_marginBottom="8sp"
                 android:fontFamily="@font/roboto"
-                android:gravity="center"
-                />
+                android:gravity="center" />
 
             <TextView
-                android:id="@+id/tv_option7_1"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="10sp"
-                android:layout_marginBottom="8sp"
-                android:fontFamily="@font/roboto"
-                android:gravity="center"
-                android:text="Commerce With maths"
-                android:background="@drawable/default_background_for_text"
-                android:textColor="#7A8089"
-                android:elevation="5sp"
-                android:layout_margin="10sp"
-                android:padding="12sp"
-                android:textSize="20sp"
-                />
-            <TextView
-                android:id="@+id/tv_option7_2"
+                android:id="@+id/tv_option11_1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10sp"
@@ -68,15 +50,81 @@
 
                 android:layout_margin="10sp"
                 android:background="@drawable/default_background_for_text"
-                android:text="Commerce Without Maths"
+                android:text="Management course"
                 android:textColor="#7A8089"
 
                 android:textSize="20sp"
                 />
+            <TextView
+                android:id="@+id/tv_option11_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
 
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Professional Course"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option11_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
 
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Creative Course"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option11_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Diploma Course"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/tv_option11_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="8sp"
+                android:fontFamily="@font/roboto"
+                android:gravity="center"
+                android:elevation="5sp"
+                android:padding="12sp"
+
+                android:layout_margin="10sp"
+                android:background="@drawable/default_background_for_text"
+                android:text="Best Course"
+                android:textColor="#7A8089"
+                android:textSize="20sp"
+                />
             <Button
-                android:id="@+id/btn_next7_1"
+                android:id="@+id/btn_next11_1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Next"
@@ -89,10 +137,11 @@
                 android:background="@drawable/mybutton"
                 />
 
+
+
         </LinearLayout>
 
 
     </androidx.cardview.widget.CardView>
-
 
 </LinearLayout>

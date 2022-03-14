@@ -167,22 +167,22 @@ class Engineering : AppCompatActivity(), View.OnClickListener{
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 7 -> {
-                    val intent = Intent(this, Eleven::class.java)
+                    val intent = Intent(this, biomedicaengineering::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 8 -> {
-                    val intent = Intent(this, Eleven::class.java)
+                    val intent = Intent(this, biotechnologist::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 9 -> {
-                    val intent = Intent(this, Eleven::class.java)
+                    val intent = Intent(this, broadcastengineer::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 10 -> {
-                    val intent = Intent(this, Eleven::class.java)
+                    val intent = Intent(this, communicationalengineering::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }

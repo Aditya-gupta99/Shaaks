@@ -23,11 +23,7 @@ class Commerce : AppCompatActivity() , View.OnClickListener{
 
         tv_option7_1.setOnClickListener(this)
         tv_option7_2.setOnClickListener(this)
-        tv_option7_3.setOnClickListener(this)
-        tv_option7_4.setOnClickListener(this)
-        tv_option7_5.setOnClickListener(this)
-        tv_option7_6.setOnClickListener(this)
-        tv_option7_7.setOnClickListener(this)
+
 
     }
 
@@ -40,21 +36,7 @@ class Commerce : AppCompatActivity() , View.OnClickListener{
             R.id.tv_option7_2 -> {
                 selectedoption(tv_option7_2, 2)
             }
-            R.id.tv_option7_3 -> {
-                selectedoption(tv_option7_3, 3)
-            }
-            R.id.tv_option7_4 -> {
-                selectedoption(tv_option7_4, 4)
-            }
-            R.id.tv_option7_5 -> {
-                selectedoption(tv_option7_5, 5)
-            }
-            R.id.tv_option7_6 -> {
-                selectedoption(tv_option7_6, 6)
-            }
-            R.id.tv_option7_7 -> {
-                selectedoption(tv_option7_7, 7)
-            }
+
 
         }
     }
@@ -77,31 +59,17 @@ class Commerce : AppCompatActivity() , View.OnClickListener{
             btn_next7_1.setOnClickListener{
                 when (selectedoptionnum) {
                     1 -> {
-
+                        val intent = Intent(this, commercewithmath::class.java)
+                        startActivity(intent)
+                        overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                     }
                     2 -> {
-
+                        val intent = Intent(this, CommerceWithoutMaths::class.java)
+                        startActivity(intent)
+                        overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                     }
-                    3 -> {
-
-                    }
-                    4 -> {
-
-                    }
-                    5 -> {
-
-                    }
-                    6 -> {
-
-                    }
-                    7 -> {
-
-                    }
-
                 }
-
             }
-
         }
 
 
@@ -111,11 +79,7 @@ class Commerce : AppCompatActivity() , View.OnClickListener{
 
         options.add(0,tv_option7_1)
         options.add(1,tv_option7_2)
-        options.add(2,tv_option7_3)
-        options.add(3,tv_option7_4)
-        options.add(4,tv_option7_5)
-        options.add(5,tv_option7_6)
-        options.add(6,tv_option7_7)
+
 
 
 
