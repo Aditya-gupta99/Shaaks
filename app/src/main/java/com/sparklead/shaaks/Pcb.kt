@@ -31,7 +31,6 @@ class Pcb : AppCompatActivity() , View.OnClickListener{
         tv_option4_10.setOnClickListener(this)
         tv_option4_11.setOnClickListener(this)
         tv_option4_12.setOnClickListener(this)
-        tv_option4_13.setOnClickListener(this)
 
     }
 
@@ -75,16 +74,8 @@ class Pcb : AppCompatActivity() , View.OnClickListener{
             R.id.tv_option4_12->{
                 selectedoption(tv_option4_12,12)
             }
-            R.id.tv_option4_13->{
-                selectedoption(tv_option4_13,13)
-            }
-
-
-
         }
     }
-
-
 
     private fun selectedoption(tv: TextView, selectedoptionnum:Int){
 
@@ -105,12 +96,12 @@ class Pcb : AppCompatActivity() , View.OnClickListener{
         btn_next4_1.setOnClickListener{
             when (selectedoptionnum) {
                 1 -> {
-                    val intent = Intent(this, Pcm::class.java)
+                    val intent = Intent(this, Eleven::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 2 -> {
-                    val intent = Intent(this, Eleven::class.java)
+                    val intent = Intent(this, bds::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
@@ -140,17 +131,17 @@ class Pcb : AppCompatActivity() , View.OnClickListener{
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 8 -> {
-                val intent = Intent(this, Eleven::class.java)
+                val intent = Intent(this, bot::class.java)
                 startActivity(intent)
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 9 -> {
-                val intent = Intent(this, Eleven::class.java)
+                val intent = Intent(this, bmlt::class.java)
                 startActivity(intent)
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 10 -> {
-                val intent = Intent(this, Eleven::class.java)
+                val intent = Intent(this, bpth::class.java)
                 startActivity(intent)
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
@@ -160,15 +151,11 @@ class Pcb : AppCompatActivity() , View.OnClickListener{
                 overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 12 -> {
-                    val intent = Intent(this, Eleven::class.java)
+                    val intent = Intent(this, bnys::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
-                13 -> {
-                    val intent = Intent(this, Eleven::class.java)
-                    startActivity(intent)
-                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
-                }
+
             }
 
         }
@@ -192,7 +179,7 @@ class Pcb : AppCompatActivity() , View.OnClickListener{
         options.add(9,tv_option4_10)
         options.add(10,tv_option4_11)
         options.add(11,tv_option4_12)
-        options.add(12,tv_option4_13)
+
 
 
 

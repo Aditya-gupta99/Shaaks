@@ -30,8 +30,7 @@ class Eight : AppCompatActivity(), View.OnClickListener {
         tv_option1_6.setOnClickListener(this)
         tv_option1_7.setOnClickListener(this)
         tv_option1_8.setOnClickListener(this)
-        tv_option1_9.setOnClickListener(this)
-        tv_option1_10.setOnClickListener(this)
+
 
     }
 
@@ -62,12 +61,6 @@ class Eight : AppCompatActivity(), View.OnClickListener {
             }
             R.id.tv_option1_8 -> {
                 selectedoption(tv_option1_8, 8)
-            }
-            R.id.tv_option1_9 -> {
-                selectedoption(tv_option1_9, 9)
-            }
-            R.id.tv_option1_10 -> {
-                selectedoption(tv_option1_10, 10)
             }
 
 
@@ -114,17 +107,17 @@ class Eight : AppCompatActivity(), View.OnClickListener {
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 5->{
-                    val intent = Intent(this, Iti::class.java)
-                    startActivity(intent)
-                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
-                }
-                6->{
                     val intent = Intent(this, Shorttermcourse::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
-                7->{
+                6->{
                     val intent = Intent(this, Vocational::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+                }
+                7->{
+                    val intent = Intent(this, Diploma::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
@@ -133,11 +126,7 @@ class Eight : AppCompatActivity(), View.OnClickListener {
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
-                9->{
-                    val intent = Intent(this, Iti::class.java)
-                    startActivity(intent)
-                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
-            }
+
             }
         }
     }
@@ -154,8 +143,7 @@ class Eight : AppCompatActivity(), View.OnClickListener {
         options.add(5,tv_option1_6)
         options.add(6,tv_option1_7)
         options.add(7,tv_option1_8)
-        options.add(8,tv_option1_9)
-        options.add(9,tv_option1_10)
+
 
 
         for(option in options){

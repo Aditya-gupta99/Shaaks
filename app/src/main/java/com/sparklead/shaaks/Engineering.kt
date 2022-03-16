@@ -137,12 +137,12 @@ class Engineering : AppCompatActivity(), View.OnClickListener{
         btn_next10_1.setOnClickListener{
             when (selectedoptionnum) {
                 1 -> {
-                    val intent = Intent(this, Pcm::class.java)
+                    val intent = Intent(this, engineering_as_a_carrer::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 2 -> {
-                    val intent = Intent(this, Eleven::class.java)
+                    val intent = Intent(this, computerscience::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
@@ -187,17 +187,62 @@ class Engineering : AppCompatActivity(), View.OnClickListener{
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 11 -> {
-                    val intent = Intent(this, Eleven::class.java)
+                    val intent = Intent(this, geneticengineering::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 12 -> {
-                    val intent = Intent(this, Eleven::class.java)
+                    val intent = Intent(this, mechanicalengineering::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 13 -> {
-                    val intent = Intent(this, Eleven::class.java)
+                    val intent = Intent(this, petroleumengineering::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+                }
+                14 -> {
+                    val intent = Intent(this, spacetechnologist::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+                }
+                15 -> {
+                    val intent = Intent(this, textileengineering::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+                }
+                16 -> {
+                    val intent = Intent(this, chemicalengineering::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+                }
+                17 -> {
+                    val intent = Intent(this, electricalengineer::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+                }
+                18 -> {
+                    val intent = Intent(this, marineengineering::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+                }
+                19 -> {
+                    val intent = Intent(this, mettalurgyengineering::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+                }
+                20 -> {
+                    val intent = Intent(this, environmentalengineer::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+                }
+                21 -> {
+                    val intent = Intent(this, industrialengineer::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+                }
+                 22 -> {
+                    val intent = Intent(this, plasticengineer::class.java)
                     startActivity(intent)
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }

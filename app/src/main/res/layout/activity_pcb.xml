@@ -156,7 +156,7 @@
 
                 android:layout_margin="10sp"
                 android:background="@drawable/default_background_for_text"
-                android:text="B.Pharma"
+                android:text="Pharmacy"
                 android:textColor="#7A8089"
                 android:textSize="20sp"
                 />
@@ -173,7 +173,7 @@
 
                 android:layout_margin="10sp"
                 android:background="@drawable/default_background_for_text"
-                android:text="D.Pharma"
+                android:text="BOT"
                 android:textColor="#7A8089"
                 android:textSize="20sp"
                 />
@@ -190,7 +190,7 @@
 
                 android:layout_margin="10sp"
                 android:background="@drawable/default_background_for_text"
-                android:text="BOT"
+                android:text="BMLT"
                 android:textColor="#7A8089"
                 android:textSize="20sp"
                 />
@@ -207,7 +207,7 @@
 
                 android:layout_margin="10sp"
                 android:background="@drawable/default_background_for_text"
-                android:text="BMLT"
+                android:text="BPT"
                 android:textColor="#7A8089"
                 android:textSize="20sp"
                 />
@@ -224,7 +224,7 @@
 
                 android:layout_margin="10sp"
                 android:background="@drawable/default_background_for_text"
-                android:text="BPT"
+                android:text="B.Sc"
                 android:textColor="#7A8089"
                 android:textSize="20sp"
                 />
@@ -241,27 +241,11 @@
 
                 android:layout_margin="10sp"
                 android:background="@drawable/default_background_for_text"
-                android:text="B.Sc"
-                android:textColor="#7A8089"
-                android:textSize="20sp"
-                />
-            <TextView
-                android:id="@+id/tv_option4_13"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="10sp"
-                android:layout_marginBottom="8sp"
-                android:fontFamily="@font/roboto"
-                android:gravity="center"
-                android:elevation="5sp"
-                android:padding="12sp"
-
-                android:layout_margin="10sp"
-                android:background="@drawable/default_background_for_text"
                 android:text="BNYS"
                 android:textColor="#7A8089"
                 android:textSize="20sp"
                 />
+
             <Button
                 android:id="@+id/btn_next4_1"
                 android:layout_width="match_parent"

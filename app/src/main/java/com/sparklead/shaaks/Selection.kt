@@ -8,6 +8,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.TextView
 import androidx.core.content.ContextCompat
+import com.sparklead.shaaks.ui.chatbot
 import kotlinx.android.synthetic.main.activity_login.*
 import kotlinx.android.synthetic.main.activity_selection.*
 
@@ -29,8 +30,12 @@ class Selection : AppCompatActivity() , View.OnClickListener{
         tv_option3.setOnClickListener(this)
         tv_option4.setOnClickListener(this)
 
+        btn_bot.setOnClickListener {
 
-
+            val intent = Intent(this, chatbot::class.java)
+            startActivity(intent)
+            overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+        }
 
     }
 
