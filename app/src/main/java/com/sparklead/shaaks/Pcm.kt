@@ -71,11 +71,22 @@ class Pcm : AppCompatActivity(),View.OnClickListener{
                 }
                 2 -> {
 
+                    val intent = Intent(this, barchetecture::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
                 }
                 3 -> {
 
+                    val intent = Intent(this, sciencecourseafter12::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+
                 }
                 4 -> {
+
+                    val intent = Intent(this, pharmacycourseafter12::class.java)
+                    startActivity(intent)
+                    overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
 
                 }
             }
